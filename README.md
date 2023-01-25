@@ -197,6 +197,6 @@ The uses of Thiruninravur Lake in Thiruninravur are
 ![OUTPUT](./screenshots/out16.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/VALID21.png)
+![HTML Validator](./screenshots/VALIDATOR11.png)
 ## Result:
 The program for implementing image map is executed successfully.
